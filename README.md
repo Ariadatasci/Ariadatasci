@@ -1,4 +1,4 @@
-# Hi, I'm Aria Singh 👋
+# Hi, I'm Aria 👋
 
 ### Final-Year Data Science Student | Aspiring Data Scientist | Problem Solver
 
